@@ -1,4 +1,4 @@
-This is a project from the Codecademy to practice knowledge of HTTP requests and asynchronous JavaScript to create a movie discovery app that will recommend random movies by genre.
+This is a project from the Codecademy to practice knowledge of APIs, HTTP requests, Querying, Asynchronous JavaScript, and  Catching Exceptions to create a movie discovery app that will recommend random movies by genre.
 
 This is Unit 4/5 of the Front-End Developer Career Path.
 
