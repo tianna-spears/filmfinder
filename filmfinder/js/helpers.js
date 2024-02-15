@@ -99,3 +99,4 @@ const displayMovie = (movieInfo) => {
     likeBtn.onclick = likeMovie;
     dislikeBtn.onclick = dislikeMovie;
 };
+
